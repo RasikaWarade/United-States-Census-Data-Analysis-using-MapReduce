@@ -1,6 +1,7 @@
 # United-States-Census-Data-Analysis-using-MapReduce
 
 ♦	Developed a system to parse and process the 1990 Census Data, supporting knowledge extraction over demographic data over all fifty states (Java, Hadoop MapReduce, HDFS)
+
 ♦	The results were then overlayed on Google Maps using Google Fusion
 
 ###
